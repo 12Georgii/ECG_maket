@@ -1,0 +1,8 @@
+Added Component: Designator=C12(CAP: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6279254871"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Конденсатор X7R 50V 0,1uF ±10% 0805"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=-12 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=NetDA2_1 Pin=C14-2
+Change Net Name : Old Net Name=NetDA2_1 New Net Name=NetC14_2
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component C12 0.1u 50V 0805 ±10%

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=R45-1
+Added Pin To Net: NetName=GNDD Pin=R45-1
+Added Member To Class: ClassName=POWER Member=Component C38 0.1u 50V 0805 ±10%
+Added Member To Class: ClassName=POWER Member=Component DA15 AMS 1117-3.3

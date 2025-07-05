@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=X7
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=X8
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=X9
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=X10
+Change Component Designator: OldDesignator=X10 NewDesignator=X5
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component X2 WF-4
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component X3 WF-2
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component X4 Micro-Fit 3.0 43045-0401

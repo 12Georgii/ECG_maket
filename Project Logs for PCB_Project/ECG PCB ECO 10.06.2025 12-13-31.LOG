@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=DA10-5
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component X2 WF-3
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component X3 WF-3
+Added Member To Class: ClassName=POWER Member=Component X6 WF-3

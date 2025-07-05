@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=Right leg Pin=X1-4
+Change Component Footprint: Designator=X1 Old Footprint=CON: 4pin Molex MicroFit 3.0 43045-0401 New Footprint=CON: 3pin wf-3
+Change Component Comment : Designator=X1 Old Comment=Micro-Fit 3.0 43045-0401 New Comment=WF-3
+Change Component Designator: OldDesignator=X2 NewDesignator=X4
+Change Component Designator: OldDesignator=X3 NewDesignator=X5
+Change Component Designator: OldDesignator=X4 NewDesignator=X7
+Change component parameters: Designator = "X1" ("X1"); Footprint = "CON: 4pin Molex MicroFit 3.0 43045-0401"; UniqueID = "\CYHZDWLT" ("\CYHZDWLT")
+Change component parameters (AddParameter): Name = "Code"; Value = "6313932013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Вилка WF-3"; VariantName = "[No Variations]"
+Added Component: Designator=X2(CON: 3pin wf-3)
+Add component (AddParameter): Name = "Code"; Value = "6313932013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Вилка WF-3"; VariantName = "[No Variations]"
+Added Component: Designator=X3(CON: 3pin wf-3)
+Add component (AddParameter): Name = "Code"; Value = "6313932013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Вилка WF-3"; VariantName = "[No Variations]"
+Added Component: Designator=X6(CON: 4pin Molex MicroFit 3.0 43045-0401)
+Add component (AddParameter): Name = "Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Right leg Pin=X1-1
+Added Pin To Net: NetName=Right leg Pin=X2-1
+Added Pin To Net: NetName=Right leg Pin=X3-1
+Change Net Name : Old Net Name=Right leg New Net Name=NetC10_2
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=X1-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=X1-3
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=X2-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=X2-3
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=X3-2
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=X3-3
+Added Net: Name=NetC6_2
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component X4 WF-4
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component X5 WF-2
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component X6 Micro-Fit 3.0 43045-0401

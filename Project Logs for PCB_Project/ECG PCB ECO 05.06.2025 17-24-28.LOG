@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=NetC19_2 Pin=C31-2
+Removed Pin From Net: NetName=NetC21_2 Pin=C32-2
+Removed Pin From Net: NetName=GND Pin=C34-2
+Removed Pin From Net: NetName=GND Pin=C35-2
+Removed Pin From Net: NetName=GND Pin=C36-2
+Removed Pin From Net: NetName=NetC19_2 Pin=R34-1
+Removed Pin From Net: NetName=NetC21_2 Pin=R35-1
+Removed Pin From Net: NetName=GND Pin=R37-1
+Removed Pin From Net: NetName=GND Pin=R38-1
+Removed Pin From Net: NetName=GND Pin=R39-1
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=C31
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=C32
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=C33
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=C34
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=C35
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=C36
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=C37
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=C38
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=C39
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=R34
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=R35
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=R36
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=R37
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=R38
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=R39
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=R40
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=R41
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=R42
+Change Component Designator: OldDesignator=C40 NewDesignator=C32
+Change Component Designator: OldDesignator=C41 NewDesignator=C31
+Change Component Designator: OldDesignator=C42 NewDesignator=C33
+Change Component Designator: OldDesignator=R43 NewDesignator=R34
+Change Component Designator: OldDesignator=R44 NewDesignator=R35
+Added Pin To Net: NetName=NetC23_2 Pin=DA9-1
+Added Pin To Net: NetName=NetC19_2 Pin=X4-1
+Added Pin To Net: NetName=NetC21_2 Pin=X4-2
+Added Pin To Net: NetName=NetC23_2 Pin=X4-3

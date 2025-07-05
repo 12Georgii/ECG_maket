@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=+3.3 Pin=C38-1
+Removed Pin From Net: NetName=GND Pin=C38-2
+Removed Pin From Net: NetName=GND Pin=DA15-1
+Removed Pin From Net: NetName=+3.3 Pin=DA15-2
+Removed Pin From Net: NetName=+5 Pin=DA15-3
+Removed Pin From Net: NetName=+3.3 Pin=DA15-4
+Removed Pin From Net: NetName=+3.3 Pin=DA16-2
+Removed Pin From Net: NetName=+3.3 Pin=DA16-4
+Removed Pin From Net: NetName=+3.3 Pin=X4-2
+Removed Pin From Net: NetName=GND Pin=X4-3
+Removed Pin From Net: NetName=+5 Pin=X5-1
+Removed Pin From Net: NetName=+3.3 Pin=X5-2
+Removed Pin From Net: NetName=GND Pin=X5-3
+Removed Pin From Net: NetName=+5 Pin=X6-1
+Removed Pin From Net: NetName=+3.3 Pin=X6-2
+Removed Pin From Net: NetName=GND Pin=X6-3
+Removed Member From Class: ClassName=POWER Member=DA16
+Change Component Footprint: Designator=X4 Old Footprint=CON: 3pin PLS-3 New Footprint=CON: 8PIN PLS-8
+Change Component Footprint: Designator=X5 Old Footprint=CON: 3pin PLS-3 New Footprint=CON: 8PIN PLS-8
+Change Component Footprint: Designator=X6 Old Footprint=CON: 3pin PLS-3 New Footprint=CON: 8PIN PLS-8
+Change Component Comment : Designator=X4 Old Comment=PLS-3 New Comment=PLS-8
+Change Component Comment : Designator=X5 Old Comment=PLS-3 New Comment=PLS-8
+Change Component Comment : Designator=X6 Old Comment=PLS-3 New Comment=PLS-8
+Change Component Designator: OldDesignator=C37 NewDesignator=C38
+Change Component Designator: OldDesignator=C38 NewDesignator=C39
+Change Component Designator: OldDesignator=C39 NewDesignator=C37
+Change Component Designator: OldDesignator=DA16 NewDesignator=DA15
+Change component parameters: Designator = "X4" ("X4"); Footprint = "CON: 3pin PLS-3"; UniqueID = "\VTSMQCRM" ("\VTSMQCRM")
+Change component parameters: Designator = "X5" ("X5"); Footprint = "CON: 3pin PLS-3"; UniqueID = "\QUJETSNH" ("\QUJETSNH")
+Change component parameters: Designator = "X6" ("X6"); Footprint = "CON: 3pin PLS-3"; UniqueID = "\QQRAGZFS" ("\QQRAGZFS")
+Added Component: Designator=R45(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094342239"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 0R ±1% 0805"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R45-1
+Added Pin To Net: NetName=GND Pin=R45-2
+Added Pin To Net: NetName=+5 Pin=X4-2
+Added Pin To Net: NetName=+5 Pin=X4-3
+Added Pin To Net: NetName=+5 Pin=X4-4
+Added Pin To Net: NetName=+5 Pin=X4-5
+Added Pin To Net: NetName=+5 Pin=X4-6
+Added Pin To Net: NetName=+5 Pin=X4-7
+Added Pin To Net: NetName=+5 Pin=X4-8
+Added Pin To Net: NetName=+3.3 Nucleo Pin=C39-1
+Added Pin To Net: NetName=+3.3 Nucleo Pin=DA15-2
+Added Pin To Net: NetName=+3.3 Nucleo Pin=DA15-4
+Added Pin To Net: NetName=+3.3 Nucleo Pin=X5-1
+Added Pin To Net: NetName=+3.3 Nucleo Pin=X5-2
+Added Pin To Net: NetName=+3.3 Nucleo Pin=X5-3
+Added Pin To Net: NetName=+3.3 Nucleo Pin=X5-4
+Added Pin To Net: NetName=+3.3 Nucleo Pin=X5-5
+Added Pin To Net: NetName=+3.3 Nucleo Pin=X5-6
+Added Pin To Net: NetName=+3.3 Nucleo Pin=X5-7
+Added Pin To Net: NetName=+3.3 Nucleo Pin=X5-8
+Added Net: Name=+3.3 Nucleo
+Added Pin To Net: NetName=GNDD Pin=C39-2
+Added Pin To Net: NetName=GNDD Pin=X6-1
+Added Pin To Net: NetName=GNDD Pin=X6-2
+Added Pin To Net: NetName=GNDD Pin=X6-3
+Added Pin To Net: NetName=GNDD Pin=X6-4
+Added Pin To Net: NetName=GNDD Pin=X6-5
+Added Pin To Net: NetName=GNDD Pin=X6-6
+Added Pin To Net: NetName=GNDD Pin=X6-7
+Added Pin To Net: NetName=GNDD Pin=X6-8
+Added Net: Name=GNDD
+Added Member To Class: ClassName=POWER Member=Component R45 0 ±1% 0805
