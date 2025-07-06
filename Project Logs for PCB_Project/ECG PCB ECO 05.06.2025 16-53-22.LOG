@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=+3.3 Pin=C40-1
+Added Pin To Net: NetName=+3.3 Pin=DA11-2
+Added Pin To Net: NetName=+3.3 Pin=X6-1
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component C14 0.1u 50V 0805 ±10%
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component R28 100k ±1% 0805
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component R29 100k ±1% 0805
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component R30 100k ±1% 0805
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component R31 100k ±1% 0805
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component R32 100k ±1% 0805
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component R33 100k ±1% 0805
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component R34 51k ±1% 0805
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component R36 51k ±1% 0805
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component R37 27k ±1% 0805
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component R38 27k ±1% 0805

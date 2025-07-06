@@ -1,0 +1,328 @@
+Removed Pin From Net: NetName=NetC23_1 Pin=C24-1
+Removed Pin From Net: NetName=NetC23_2 Pin=C24-2
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=GND Pin=C26-2
+Removed Pin From Net: NetName=GND Pin=C27-1
+Removed Pin From Net: NetName=+3.3 Pin=C29-1
+Removed Pin From Net: NetName=GND Pin=C29-2
+Removed Pin From Net: NetName=+3.3 Pin=C30-1
+Removed Pin From Net: NetName=GND Pin=C30-2
+Removed Pin From Net: NetName=NetC25_2 Pin=DA7-3
+Removed Pin From Net: NetName=NetDA7_4 Pin=DA7-4
+Removed Pin From Net: NetName=NetC26_1 Pin=DA8-3
+Removed Pin From Net: NetName=NetC23_2 Pin=DA9-1
+Removed Pin From Net: NetName=NetC27_2 Pin=DA9-3
+Removed Pin From Net: NetName=NetC23_1 Pin=R24-2
+Removed Pin From Net: NetName=NetC25_2 Pin=R25-2
+Removed Pin From Net: NetName=NetC26_1 Pin=R26-2
+Removed Pin From Net: NetName=NetC23_1 Pin=R27-1
+Removed Pin From Net: NetName=NetC27_2 Pin=R27-2
+Removed Pin From Net: NetName=NetDA9_4 Pin=R28-1
+Removed Pin From Net: NetName=GND Pin=R28-2
+Removed Pin From Net: NetName=NetDA8_4 Pin=R29-1
+Removed Pin From Net: NetName=GND Pin=R29-2
+Removed Pin From Net: NetName=NetDA9_4 Pin=R30-1
+Removed Pin From Net: NetName=NetC23_2 Pin=R30-2
+Removed Pin From Net: NetName=NetDA8_4 Pin=R31-1
+Removed Pin From Net: NetName=NetDA7_4 Pin=R32-1
+Removed Pin From Net: NetName=NetDA7_4 Pin=R33-1
+Removed Pin From Net: NetName=NetC10_2 Pin=X1-1
+Removed Pin From Net: NetName=NetC10_2 Pin=X2-1
+Removed Pin From Net: NetName=NetC10_2 Pin=X3-1
+Removed Pin From Net: NetName=NetC23_2 Pin=X4-3
+Removed Pin From Net: NetName=GND Pin=X4-4
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=X4
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=X5
+Change Component Footprint: Designator=X1 Old Footprint=CON: 3pin wf-3 New Footprint=CON: 4pin Molex MicroFit 3.0 43045-0401
+Change Component Footprint: Designator=X2 Old Footprint=CON: 3pin wf-3 New Footprint=CON: 4pin PLS-4
+Change Component Comment : Designator=C25 Old Comment=0.1u 50V 0805 ±10% New Comment=0.01u 50V 0805 ±5%
+Change Component Comment : Designator=C26 Old Comment=0.1u 50V 0805 ±10% New Comment=0.01u 50V 0805 ±5%
+Change Component Comment : Designator=C27 Old Comment=0.1u 50V 0805 ±10% New Comment=0.01u 50V 0805 ±5%
+Change Component Comment : Designator=R23 Old Comment=27k ±1% 0805 New Comment=100k ±1% 0805
+Change Component Comment : Designator=R24 Old Comment=27k ±1% 0805 New Comment=100k ±1% 0805
+Change Component Comment : Designator=R26 Old Comment=27k ±1% 0805 New Comment=100k ±1% 0805
+Change Component Comment : Designator=R27 Old Comment=27k ±1% 0805 New Comment=100k ±1% 0805
+Change Component Comment : Designator=R29 Old Comment=100k ±1% 0805 New Comment=27k ±1% 0805
+Change Component Comment : Designator=R30 Old Comment=100k ±1% 0805 New Comment=27k ±1% 0805
+Change Component Comment : Designator=R33 Old Comment=100k ±1% 0805 New Comment=27k ±1% 0805
+Change Component Comment : Designator=X1 Old Comment=WF-3 New Comment=Micro-Fit 3.0 43045-0401
+Change Component Comment : Designator=X2 Old Comment=WF-3 New Comment=PLS-4
+Change Component Designator: OldDesignator=C13 NewDesignator=C14
+Change Component Designator: OldDesignator=C14 NewDesignator=C13
+Change Component Designator: OldDesignator=C28 NewDesignator=C34
+Change Component Designator: OldDesignator=C31 NewDesignator=C41
+Change Component Designator: OldDesignator=C32 NewDesignator=C40
+Change Component Designator: OldDesignator=C33 NewDesignator=C42
+Change Component Designator: OldDesignator=DA7 NewDesignator=DA10
+Change Component Designator: OldDesignator=DA10 NewDesignator=DA13
+Change Component Designator: OldDesignator=DA11 NewDesignator=DA14
+Change Component Designator: OldDesignator=DA12 NewDesignator=DA15
+Change Component Designator: OldDesignator=DA13 NewDesignator=DA16
+Change Component Designator: OldDesignator=R22 NewDesignator=R28
+Change Component Designator: OldDesignator=R25 NewDesignator=R31
+Change Component Designator: OldDesignator=R32 NewDesignator=R34
+Change Component Designator: OldDesignator=R34 NewDesignator=R43
+Change Component Designator: OldDesignator=R35 NewDesignator=R44
+Change Component Designator: OldDesignator=X5 NewDesignator=X3
+Change Component Designator: OldDesignator=X6 NewDesignator=X4
+Change component parameters: Designator = "C25" ("C25"); Footprint = "CAP: SMD 0805 MD IPC 782"; UniqueID = "\OCTWBLVZ" ("\OCTWBLVZ")
+Change component parameters (AddParameter): Name = "Code"; Value = "6279261451"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Конденсатор X7R 50V  0,01uF±5%  0805"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C26" ("C26"); Footprint = "CAP: SMD 0805 MD IPC 782"; UniqueID = "\CCZWZXIM" ("\CCZWZXIM")
+Change component parameters (AddParameter): Name = "Code"; Value = "6279261451"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Конденсатор X7R 50V  0,01uF±5%  0805"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C27" ("C27"); Footprint = "CAP: SMD 0805 MD IPC 782"; UniqueID = "\EWDVZHRL" ("\EWDVZHRL")
+Change component parameters (AddParameter): Name = "Code"; Value = "6279261451"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Конденсатор X7R 50V  0,01uF±5%  0805"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23" ("R23"); Footprint = "RES: SMD 0805 MD IPC 782"; UniqueID = "\AHEYWWAC" ("\AHEYWWAC")
+Change component parameters (AddParameter): Name = "Code"; Value = "6094357811"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Резистор 100K±1% 0805"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24" ("R24"); Footprint = "RES: SMD 0805 MD IPC 782"; UniqueID = "\BCCBWHBN" ("\BCCBWHBN")
+Change component parameters (AddParameter): Name = "Code"; Value = "6094357811"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Резистор 100K±1% 0805"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26" ("R26"); Footprint = "RES: SMD 0805 MD IPC 782"; UniqueID = "\QIJWODSI" ("\QIJWODSI")
+Change component parameters (AddParameter): Name = "Code"; Value = "6094357811"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Резистор 100K±1% 0805"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R27" ("R27"); Footprint = "RES: SMD 0805 MD IPC 782"; UniqueID = "\NGOKUJGJ" ("\NGOKUJGJ")
+Change component parameters (AddParameter): Name = "Code"; Value = "6094357811"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Резистор 100K±1% 0805"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R29" ("R29"); Footprint = "RES: SMD 0805 MD IPC 782"; UniqueID = "\MZBMXHEL" ("\MZBMXHEL")
+Change component parameters (AddParameter): Name = "Code"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Резистор 27k±1% 0805"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30" ("R30"); Footprint = "RES: SMD 0805 MD IPC 782"; UniqueID = "\SPKUERMU" ("\SPKUERMU")
+Change component parameters (AddParameter): Name = "Code"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Резистор 27k±1% 0805"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R33" ("R33"); Footprint = "RES: SMD 0805 MD IPC 782"; UniqueID = "\SJQKWWTH" ("\SJQKWWTH")
+Change component parameters (AddParameter): Name = "Code"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Резистор 27k±1% 0805"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X1" ("X1"); Footprint = "CON: 3pin wf-3"; UniqueID = "\KALPZHVM" ("\KALPZHVM")
+Change component parameters (AddParameter): Name = "Code"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "X2" ("X2"); Footprint = "CON: 3pin wf-3"; UniqueID = "\AJFQYULI" ("\AJFQYULI")
+Change component parameters (AddParameter): Name = "Code"; Value = "6313932041"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Вилка WF-4"; VariantName = "[No Variations]"
+Added Component: Designator=C28(CAP: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6279261451"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Конденсатор X7R 50V  0,01uF±5%  0805"; VariantName = "[No Variations]"
+Added Component: Designator=C31(CAP: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6279261451"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Конденсатор X7R 50V  0,01uF±5%  0805"; VariantName = "[No Variations]"
+Added Component: Designator=C32(CAP: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6279254871"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Конденсатор X7R 50V 0,1uF ±10% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=C33(CAP: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6279254871"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Конденсатор X7R 50V 0,1uF ±10% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=C35(CAP: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6279254871"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Конденсатор X7R 50V 0,1uF ±10% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=C36(CAP: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6279254871"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Конденсатор X7R 50V 0,1uF ±10% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=C37(CAP: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6279254871"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Конденсатор X7R 50V 0,1uF ±10% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=C38(CAP: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6279254871"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Конденсатор X7R 50V 0,1uF ±10% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=C39(CAP: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6279254871"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Конденсатор X7R 50V 0,1uF ±10% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=DA7(IC: SOT 23 5pin)
+Add component (AddParameter): Name = "Code"; Value = "6339115821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Микросхема TLV9101IDBVR"; VariantName = "[No Variations]"
+Added Component: Designator=DA11(IC: SOT 23 5pin)
+Add component (AddParameter): Name = "Code"; Value = "6339115821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Микросхема TLV9101IDBVR"; VariantName = "[No Variations]"
+Added Component: Designator=DA12(IC: SOT 23 5pin)
+Add component (AddParameter): Name = "Code"; Value = "6339115821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Микросхема TLV9101IDBVR"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094357811"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 100K±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094357811"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 100K±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=R32(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 27k±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=R35(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094357811"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 100K±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=R36(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094357811"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 100K±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=R37(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6020003061"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор RC0805JR-0710KL"; VariantName = "[No Variations]"
+Added Component: Designator=R38(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094357811"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 100K±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=R39(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094357811"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 100K±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=R40(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 75К±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=R41(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 75К±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=R42(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 75К±1% 0805"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=+3.3 Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=+3.3 Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=NetC26_1 Pin=C32-1
+Added Pin To Net: NetName=+3.3 Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=+3.3 Pin=C36-1
+Added Pin To Net: NetName=GND Pin=C36-2
+Added Pin To Net: NetName=GND Pin=C37-2
+Added Pin To Net: NetName=GND Pin=C38-2
+Added Pin To Net: NetName=GND Pin=C39-2
+Added Pin To Net: NetName=NetC23_2 Pin=DA5-6
+Added Pin To Net: NetName=GND Pin=DA7-2
+Added Pin To Net: NetName=NetDA7_4 Pin=DA7-4
+Added Pin To Net: NetName=+3.3 Pin=DA7-5
+Added Pin To Net: NetName=NetC23_1 Pin=DA8-1
+Added Pin To Net: NetName=NetC23_2 Pin=DA8-3
+Added Pin To Net: NetName=NetC26_1 Pin=DA11-1
+Added Pin To Net: NetName=GND Pin=DA11-2
+Added Pin To Net: NetName=+3.3 Pin=DA11-5
+Added Pin To Net: NetName=GND Pin=DA12-2
+Added Pin To Net: NetName=+3.3 Pin=DA12-5
+Added Pin To Net: NetName=NetDA7_4 Pin=R22-1
+Added Pin To Net: NetName=GND Pin=R22-2
+Added Pin To Net: NetName=NetDA8_4 Pin=R23-1
+Added Pin To Net: NetName=GND Pin=R23-2
+Added Pin To Net: NetName=NetDA9_4 Pin=R24-1
+Added Pin To Net: NetName=GND Pin=R24-2
+Added Pin To Net: NetName=NetDA7_4 Pin=R25-1
+Added Pin To Net: NetName=NetDA8_4 Pin=R26-1
+Added Pin To Net: NetName=NetC23_1 Pin=R26-2
+Added Pin To Net: NetName=NetDA9_4 Pin=R27-1
+Added Pin To Net: NetName=NetC25_2 Pin=R28-2
+Added Pin To Net: NetName=NetC23_1 Pin=R29-1
+Added Pin To Net: NetName=NetC27_2 Pin=R30-2
+Added Pin To Net: NetName=NetC25_2 Pin=R31-1
+Added Pin To Net: NetName=NetC27_2 Pin=R33-1
+Added Pin To Net: NetName=GND Pin=R35-2
+Added Pin To Net: NetName=GND Pin=R36-2
+Added Pin To Net: NetName=NetC26_1 Pin=R38-2
+Added Pin To Net: NetName=NetC26_1 Pin=R41-1
+Added Pin To Net: NetName=NetC10_2 Pin=X1-3
+Added Pin To Net: NetName=GND Pin=X2-4
+Change Net Name : Old Net Name=NetC10_2 New Net Name=RL
+Added Pin To Net: NetName=LA Pin=C1-2
+Added Pin To Net: NetName=LA Pin=C6-2
+Added Pin To Net: NetName=LA Pin=X1-2
+Added Net: Name=LA
+Added Pin To Net: NetName=LL Pin=C3-2
+Added Pin To Net: NetName=LL Pin=C5-2
+Added Pin To Net: NetName=LL Pin=X1-4
+Added Net: Name=LL
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=NetC22_1 Pin=DA7-1
+Added Pin To Net: NetName=NetC22_1 Pin=R25-2
+Added Pin To Net: NetName=NetC22_1 Pin=R28-1
+Added Net: Name=NetC22_1
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=NetC22_2 Pin=DA4-6
+Added Pin To Net: NetName=NetC22_2 Pin=DA7-3
+Added Net: Name=NetC22_2
+Added Pin To Net: NetName=NetC24_1 Pin=C24-1
+Added Pin To Net: NetName=NetC24_1 Pin=DA9-1
+Added Pin To Net: NetName=NetC24_1 Pin=R27-2
+Added Pin To Net: NetName=NetC24_1 Pin=R30-1
+Added Net: Name=NetC24_1
+Added Pin To Net: NetName=NetC24_2 Pin=C24-2
+Added Pin To Net: NetName=NetC24_2 Pin=DA6-6
+Added Pin To Net: NetName=NetC24_2 Pin=DA9-3
+Added Net: Name=NetC24_2
+Added Pin To Net: NetName=NetC25_1 Pin=C25-1
+Added Pin To Net: NetName=NetC25_1 Pin=C31-1
+Added Pin To Net: NetName=NetC25_1 Pin=DA10-1
+Added Pin To Net: NetName=NetC25_1 Pin=R37-2
+Added Pin To Net: NetName=NetC25_1 Pin=R40-1
+Added Net: Name=NetC25_1
+Added Pin To Net: NetName=NetC26_2 Pin=C26-2
+Added Pin To Net: NetName=NetC26_2 Pin=R29-2
+Added Pin To Net: NetName=NetC26_2 Pin=R32-1
+Added Net: Name=NetC26_2
+Added Pin To Net: NetName=NetC27_1 Pin=C27-1
+Added Pin To Net: NetName=NetC27_1 Pin=C33-1
+Added Pin To Net: NetName=NetC27_1 Pin=DA12-1
+Added Pin To Net: NetName=NetC27_1 Pin=R39-2
+Added Pin To Net: NetName=NetC27_1 Pin=R42-1
+Added Net: Name=NetC27_1
+Added Pin To Net: NetName=NetC28_1 Pin=C28-1
+Added Pin To Net: NetName=NetC28_1 Pin=DA10-3
+Added Pin To Net: NetName=NetC28_1 Pin=R31-2
+Added Net: Name=NetC28_1
+Added Pin To Net: NetName=NetC29_2 Pin=C29-2
+Added Pin To Net: NetName=NetC29_2 Pin=DA11-3
+Added Pin To Net: NetName=NetC29_2 Pin=R32-2
+Added Net: Name=NetC29_2
+Added Pin To Net: NetName=NetC30_2 Pin=C30-2
+Added Pin To Net: NetName=NetC30_2 Pin=DA12-3
+Added Pin To Net: NetName=NetC30_2 Pin=R33-2
+Added Net: Name=NetC30_2
+Added Pin To Net: NetName=NetC31_2 Pin=C31-2
+Added Pin To Net: NetName=NetC31_2 Pin=DA10-4
+Added Pin To Net: NetName=NetC31_2 Pin=R34-1
+Added Pin To Net: NetName=NetC31_2 Pin=R37-1
+Added Net: Name=NetC31_2
+Added Pin To Net: NetName=NetC32_2 Pin=C32-2
+Added Pin To Net: NetName=NetC32_2 Pin=DA11-4
+Added Pin To Net: NetName=NetC32_2 Pin=R35-1
+Added Pin To Net: NetName=NetC32_2 Pin=R38-1
+Added Net: Name=NetC32_2
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=DA12-4
+Added Pin To Net: NetName=NetC33_2 Pin=R36-1
+Added Pin To Net: NetName=NetC33_2 Pin=R39-1
+Added Net: Name=NetC33_2
+Added Pin To Net: NetName=NetC37_1 Pin=C37-1
+Added Pin To Net: NetName=NetC37_1 Pin=R40-2
+Added Pin To Net: NetName=NetC37_1 Pin=X2-1
+Added Net: Name=NetC37_1
+Added Pin To Net: NetName=NetC38_1 Pin=C38-1
+Added Pin To Net: NetName=NetC38_1 Pin=R41-2
+Added Pin To Net: NetName=NetC38_1 Pin=X2-2
+Added Net: Name=NetC38_1
+Added Pin To Net: NetName=NetC39_1 Pin=C39-1
+Added Pin To Net: NetName=NetC39_1 Pin=R42-2
+Added Pin To Net: NetName=NetC39_1 Pin=X2-3
+Added Net: Name=NetC39_1
+Added Pin To Net: NetName=RA Pin=C2-2
+Added Pin To Net: NetName=RA Pin=C4-2
+Added Pin To Net: NetName=RA Pin=X1-1
+Added Net: Name=RA
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component C31 0.01u 50V 0805 ±5%
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component C32 0.1u 50V 0805 ±10%
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component C33 0.1u 50V 0805 ±10%
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component C34 0.1u 50V 0805 ±10%
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component C35 0.1u 50V 0805 ±10%
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component C36 0.1u 50V 0805 ±10%
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component C37 0.1u 50V 0805 ±10%
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component C38 0.1u 50V 0805 ±10%
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component C39 0.1u 50V 0805 ±10%
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component DA10 TLV9101
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component DA11 TLV9101
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component DA12 TLV9101
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component R34 100k ±1% 0805
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component R35 100k ±1% 0805
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component R36 100k ±1% 0805
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component R37 10k ±1% 0805
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component R38 100k ±1% 0805
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component R39 100k ±1% 0805
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component R40 75k ±1% 0805
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component R41 75k ±1% 0805
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component R42 75k ±1% 0805

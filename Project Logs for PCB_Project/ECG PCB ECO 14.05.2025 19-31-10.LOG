@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetC1_1 Pin=R1-2
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component C8 0.1u 50V 0805 ±10%
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component C10 0.1u 50V 0805 ±10%
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component C22 0.01u 50V 0805 ±5%
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component R31 27k ±1% 0805
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component R32 27k ±1% 0805

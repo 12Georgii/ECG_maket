@@ -1,0 +1,44 @@
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=C40
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=C41
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=C42
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=DA13
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=DA14
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=DA15
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=R43
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=R44
+Change Component Footprint: Designator=X4 Old Footprint=CON: 3pin wf-3 New Footprint=CON: 3pin PLS-3
+Change Component Comment : Designator=X4 Old Comment=WF-3 New Comment=PLS-3
+Change component parameters: Designator = "X4" ("X4"); Footprint = "CON: 3pin wf-3"; UniqueID = "\YDMZKZXP" ("\YDMZKZXP")
+Change component parameters (AddParameter): Name = "Code"; Value = "6313952321"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "ย่๋๊เ PLS-2"; VariantName = "[No Variations]"
+Added Component: Designator=X5(CON: 3pin PLS-3)
+Add component (AddParameter): Name = "Code"; Value = "6313952321"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "ย่๋๊เ PLS-2"; VariantName = "[No Variations]"
+Added Component: Designator=X6(CON: 3pin PLS-3)
+Add component (AddParameter): Name = "Code"; Value = "6313952321"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "ย่๋๊เ PLS-2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=X5-1
+Added Pin To Net: NetName=+3.3 Pin=X5-2
+Added Pin To Net: NetName=GND Pin=X5-3
+Added Pin To Net: NetName=+5 Pin=X6-1
+Added Pin To Net: NetName=+3.3 Pin=X6-2
+Added Pin To Net: NetName=GND Pin=X6-3
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component C13 0.1u 50V 0805 ฑ10%
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component C28 0.01u 50V 0805 ฑ5%
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component C31 0.01u 50V 0805 ฑ5%
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component C32 0.1u 50V 0805 ฑ10%
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component C33 0.1u 50V 0805 ฑ10%
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component DA7 TLV9101
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component DA11 TLV9101
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component DA12 TLV9101
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component R22 100k ฑ1% 0805
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component R25 100k ฑ1% 0805
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component R28 27k ฑ1% 0805
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component R31 27k ฑ1% 0805
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component R32 27k ฑ1% 0805
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component R34 100k ฑ1% 0805
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component R35 100k ฑ1% 0805
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component X3 WF-2
+Added Member To Class: ClassName=POWER Member=Component X4 PLS-3
+Added Member To Class: ClassName=POWER Member=Component X5 PLS-3
+Added Member To Class: ClassName=POWER Member=Component X6 PLS-3

@@ -1,0 +1,46 @@
+Change Component Footprint: Designator=C16 Old Footprint=CAP: SMD 0805 MD IPC 782 New Footprint=CAP: SMD 1210 MD IPC 782
+Change Component Footprint: Designator=C17 Old Footprint=CAP: SMD 0805 MD IPC 782 New Footprint=CAP: SMD 1210 MD IPC 782
+Change Component Footprint: Designator=C18 Old Footprint=CAP: SMD 0805 MD IPC 782 New Footprint=CAP: SMD 1210 MD IPC 782
+Change Component Footprint: Designator=C19 Old Footprint=CAP: SMD 0805 MD IPC 782 New Footprint=CAP: SMD 1210 MD IPC 782
+Change Component Footprint: Designator=C20 Old Footprint=CAP: SMD 0805 MD IPC 782 New Footprint=CAP: SMD 1210 MD IPC 782
+Change Component Footprint: Designator=C21 Old Footprint=CAP: SMD 0805 MD IPC 782 New Footprint=CAP: SMD 1210 MD IPC 782
+Change Component Footprint: Designator=L1 Old Footprint=IND: 40x40 New Footprint=IND: 1812
+Change Component Footprint: Designator=L2 Old Footprint=IND: 40x40 New Footprint=IND: 1812
+Change Component Footprint: Designator=L3 Old Footprint=IND: 40x40 New Footprint=IND: 1812
+Change Component Comment : Designator=C16 Old Comment=0.1u 50V 0805 ±10% New Comment=47u 16V 1210 ±20%
+Change Component Comment : Designator=C17 Old Comment=0.1u 50V 0805 ±10% New Comment=47u 16V 1210 ±20%
+Change Component Comment : Designator=C18 Old Comment=0.1u 50V 0805 ±10% New Comment=47u 16V 1210 ±20%
+Change Component Comment : Designator=C19 Old Comment=0.1u 50V 0805 ±10% New Comment=47u 16V 1210 ±20%
+Change Component Comment : Designator=C20 Old Comment=0.1u 50V 0805 ±10% New Comment=47u 16V 1210 ±20%
+Change Component Comment : Designator=C21 Old Comment=0.1u 50V 0805 ±10% New Comment=47u 16V 1210 ±20%
+Change Component Comment : Designator=L1 Old Comment=4.7u±20% 7.6A New Comment=330u±10%
+Change Component Comment : Designator=L2 Old Comment=4.7u±20% 7.6A New Comment=330u±10%
+Change Component Comment : Designator=L3 Old Comment=4.7u±20% 7.6A New Comment=330u±10%
+Change component parameters: Designator = "C16" ("C16"); Footprint = "CAP: SMD 0805 MD IPC 782"; UniqueID = "\GLGMPFMH" ("\GLGMPFMH")
+Change component parameters (AddParameter): Name = "Code"; Value = "6289734921"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Конденсатор GRM32ER61C476ME15L"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17" ("C17"); Footprint = "CAP: SMD 0805 MD IPC 782"; UniqueID = "\WECCPILD" ("\WECCPILD")
+Change component parameters (AddParameter): Name = "Code"; Value = "6289734921"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Конденсатор GRM32ER61C476ME15L"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "CAP: SMD 0805 MD IPC 782"; UniqueID = "\XBJGTKJB" ("\XBJGTKJB")
+Change component parameters (AddParameter): Name = "Code"; Value = "6289734921"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Конденсатор GRM32ER61C476ME15L"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19" ("C19"); Footprint = "CAP: SMD 0805 MD IPC 782"; UniqueID = "\HTPSURWH" ("\HTPSURWH")
+Change component parameters (AddParameter): Name = "Code"; Value = "6289734921"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Конденсатор GRM32ER61C476ME15L"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20" ("C20"); Footprint = "CAP: SMD 0805 MD IPC 782"; UniqueID = "\OYMCPKSC" ("\OYMCPKSC")
+Change component parameters (AddParameter): Name = "Code"; Value = "6289734921"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Конденсатор GRM32ER61C476ME15L"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21" ("C21"); Footprint = "CAP: SMD 0805 MD IPC 782"; UniqueID = "\SUNRJVMU" ("\SUNRJVMU")
+Change component parameters (AddParameter): Name = "Code"; Value = "6289734921"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Конденсатор GRM32ER61C476ME15L"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1" ("L1"); Footprint = "IND: 40x40"; UniqueID = "\XRBUSJER" ("\XRBUSJER")
+Change component parameters: Designator = "L2" ("L2"); Footprint = "IND: 40x40"; UniqueID = "\UMLYSFJQ" ("\UMLYSFJQ")
+Change component parameters: Designator = "L3" ("L3"); Footprint = "IND: 40x40"; UniqueID = "\YTZOWOQN" ("\YTZOWOQN")
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component R1 10k ±1% 0805
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component R4 10k ±1% 0805
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4

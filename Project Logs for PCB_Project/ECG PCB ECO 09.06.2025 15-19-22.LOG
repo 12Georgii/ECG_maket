@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=X6
+Removed Member From Class: ClassName=ECG_mesurment_2 Member=X7
+Change Component Designator: OldDesignator=X7 NewDesignator=X6
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component X2 WF-3
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component X3 WF-3
+Added Member To Class: ClassName=ECG_mesurment_2 Member=Component X4 WF-4
